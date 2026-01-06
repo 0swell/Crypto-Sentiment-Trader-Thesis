@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2024-01-10 21:00:00",
+    "symbol": "BTCUSDT",
+    "text": "SEC, Bitcoin Spot ETF başvurularını resmen onayladığını duyurdu."
+  },
+  {
+    "id": 2,
+    "timestamp": "2024-01-12 14:30:00",
+    "symbol": "BTCUSDT",
+    "text": "Grayscale Bitcoin Trust fonundan yüklü miktarda çıkışlar gözlemleniyor, satış baskısı artabilir."
+  },
+  {
+    "id": 3,
+    "timestamp": "2024-02-15 10:00:00",
+    "symbol": "BTCUSDT",
+    "text": "Piyasa analistleri Bitcoin halving öncesi volatilitenin azalmasını ve yatay seyir bekliyor."
+  },
+  {
+    "id": 4,
+    "timestamp": "2024-02-26 16:00:00",
+    "symbol": "BTCUSDT",
+    "text": "MicroStrategy, ortalama 51.000 dolar maliyetle 3.000 BTC daha satın aldığını açıkladı."
+  },
+  {
+    "id": 5,
+    "timestamp": "2024-03-05 18:00:00",
+    "symbol": "BTCUSDT",
+    "text": "Bitcoin tüm zamanların en yüksek seviyesi olan 69.000 doları aştıktan sonra sert bir düzeltme yedi."
+  },
+  {
+    "id": 6,
+    "timestamp": "2024-04-13 20:00:00",
+    "symbol": "BTCUSDT",
+    "text": "İran ve İsrail arasındaki gerilim tırmanıyor, riskli varlıklardan kaçış başladı."
+  },
+  {
+    "id": 7,
+    "timestamp": "2024-05-20 12:00:00",
+    "symbol": "BTCUSDT",
+    "text": "Bloomberg analistleri, Ethereum ETF onayı olasılığını %25'ten %75'e çıkardı."
+  },
+  {
+    "id": 8,
+    "timestamp": "2024-06-07 15:30:00",
+    "symbol": "BTCUSDT",
+    "text": "ABD Tarım Dışı İstihdam verisi beklentilerin üzerinde geldi, Fed'in faiz indirim ihtimali zayıfladı."
+  },
+  {
+    "id": 9,
+    "timestamp": "2024-07-05 09:00:00",
+    "symbol": "BTCUSDT",
+    "text": "Mt. Gox borsası, alacaklılara Bitcoin geri ödemelerine başladığını duyurdu."
+  },
+  {
+    "id": 10,
+    "timestamp": "2024-07-13 23:00:00",
+    "symbol": "BTCUSDT",
+    "text": "Donald Trump'ın miting sırasında saldırıya uğramasının ardından piyasalarda belirsizlik hakim."
+  }
+]

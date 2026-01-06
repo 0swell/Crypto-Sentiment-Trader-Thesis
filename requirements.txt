@@ -1,0 +1,10 @@
+google-generativeai
+python-binance
+pandas
+python-dotenv
+google-genai
+pygad
+matplotlib
+numpy
+
+# python -m pip install -r requirements.txt 

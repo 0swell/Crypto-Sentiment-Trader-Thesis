@@ -1,0 +1,11 @@
+# Python gereksiz dosyaları
+__pycache__/
+*.pyc
+
+# GÜVENLİK  
+config.py
+.env
+
+
+# VS Code ayarları
+.vscode/
