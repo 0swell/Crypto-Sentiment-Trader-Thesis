@@ -1,11 +1,7 @@
-# Python gereksiz dosyaları
 __pycache__/
 *.pyc
-
-# GÜVENLİK  
-config.py
+*.db
 .env
-
-
-# VS Code ayarları
+.DS_Store
+venv/
 .vscode/
